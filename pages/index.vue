@@ -122,6 +122,14 @@
                 <li><a href="http://zisuzon.com/projects/car3/" class="button">Visit</a></li>
               </ul>
             </article>
+            <article>
+              <a href="#" class="image"><img src="~/assets/images//projects/number-quote.png" alt="" /></a>
+              <h3>Number Quote</h3>
+              <p>Vue JS fun app project based on <a href="http://numbersapi.com/">Numbers API.</a> </p>
+              <ul class="actions">
+                <li><a href="https://github.com/zisuzon/numberQuote" class="button">Visit</a></li>
+              </ul>
+            </article>
           </div>
         </section>
 

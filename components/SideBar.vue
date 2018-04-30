@@ -17,7 +17,7 @@
           <ul>
             <li><nuxt-link to="http://www.zisuzon.com/">Home</nuxt-link></li>
             <li><nuxt-link to="http://blog.zisuzon.com/">Blog</nuxt-link></li>
-            <li><nuxt-link to="/cv/zis-resume.pdf">CV</nuxt-link></li>
+            <li><nuxt-link to="">CV</nuxt-link></li>
             <!-- <li>
               <span class="opener">Submenu</span>
               <ul>
@@ -38,21 +38,17 @@
           <div class="mini-posts">
             <article>
               <a href="#" class="image"><img src="~/assets/images/deligram.jpg" alt="" /></a>
-              <p>My first professional experience is with <b>Deligram</b> in 2017. I am really grateful that I got the chance working there. 
-              Things I've learned and experienced at deligram will help me through out my career.</p>
+              <p>I am currently working at <b>Deligram Technology Inc</b> as a front-end developer. I am really grateful that I got the chance
+              working there. Things I've learned and experienced at deligram will help me through out my career.</p>
             </article>
             <article>
-              <a href="#" class="image"><img src="~/assets/images/pic08.jpg" alt="" /></a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
-            </article>
-            <article>
-              <a href="#" class="image"><img src="~/assets/images/pic09.jpg" alt="" /></a>
-              <p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore aliquam.</p>
+              <a href="#" class="image"><img src="~/assets/images/my-workspace.jpg" alt="Workspace" /></a>
+              <p>I love to work on two monitor setup on a messy desk. My favourite operating system is linux. But when I work on my photography I boot to windows which is kind of annoying.</p>
             </article>
           </div>
-          <ul class="actions">
+          <!-- <ul class="actions">
             <li><a href="#" class="button">More</a></li>
-          </ul>
+          </ul> -->
         </section>
 
       <!-- Section -->
